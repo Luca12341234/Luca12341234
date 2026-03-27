@@ -22,4 +22,4 @@ Durante il mio percorso di studi (ex studente presso ITT L. Da Vinci), ho partec
 
 ---
 
-📫 **Come contattarmi:** (Inserisci qui la tua email o il tuo profilo LinkedIn, se lo desideri)
+📫 **Come contattarmi:** [(LINKEDIN)](https://www.linkedin.com/in/luca-m-488788244/)
