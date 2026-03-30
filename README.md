@@ -18,7 +18,7 @@ Durante il mio percorso di studi (ex studente presso ITT L. Da Vinci), ho partec
 ### 📜 Certificazioni
 * 🛡️ **Network Security Essentials for Locally-Managed** - Ottenuta a seguito del corso *Watchguard TEN4RED* presso PCS-Group.
 * 🔌 **Cisco CCNA** - Certificazione per il networking aziendale.
-* 🇬🇧 **Trinity B1.1** - Certificazione di lingua inglese.
+* 🎩 **Trinity B1.1** - Certificazione di lingua inglese.
 
 ---
 
